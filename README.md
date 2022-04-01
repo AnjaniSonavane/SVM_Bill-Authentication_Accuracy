@@ -2,4 +2,4 @@
 
 
 
-I have added Classification report using SVM. Predicted an accurate outcome based on selected values.
+We have added Classification report using SVM. Predicted an accurate outcome based on selected values.
